@@ -1,4 +1,4 @@
-# python-practices-problems
+#  simple-python-practices-problems
 
 p1.py question =
 Write a Python program that : 
