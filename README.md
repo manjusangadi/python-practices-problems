@@ -11,4 +11,6 @@ if google pay = 20% discount,
 else 10% discount,
 discount amount,
 
+p3.py  comparison operartor
+
 
