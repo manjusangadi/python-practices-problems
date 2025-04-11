@@ -13,4 +13,6 @@ discount amount,
 
 p3.py  comparison operartor
 
+p5.py  Write a Python program that: user secret number. Allows the user to guess the number. The user can guess only 3 times. 
+
 
