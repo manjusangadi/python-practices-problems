@@ -15,4 +15,12 @@ p3.py  comparison operartor
 
 p5.py  Write a Python program that: user secret number. Allows the user to guess the number. The user can guess only 3 times. 
 
+word_count.py
+ Write a Python program that:
+#Has a long block of text (about any topic).
+ask the user to enter paragraph.
+Asks the user to enter a word.
+Counts how many times that word appears in the text.
+Prints the total count at the end.
+
 
