@@ -23,4 +23,6 @@ Asks the user to enter a word.
 Counts how many times that word appears in the text.
 Prints the total count at the end.
 
+p6.py Enter your height in cm and, if tall enough, your age and whether you want a snapshot (Y/N) pay some amount. 
+
 
