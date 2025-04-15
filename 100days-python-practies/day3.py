@@ -2,10 +2,10 @@
 print('Welcome to treasure island ')
 print('Your mission is find the treasure')
 
-choice = input('your at a cross the road, where do you want to go? Type "Left" or "Right":')
-choice_1= choice.lower()
+choice = input('your at a cross the road, where do you want to go? Type "Left" or "Right":').lower()
+# choice_1= choice.lower()
 
-if choice_1 == 'left' :
+if choice == 'left':
     print(choice_1)
     choice_2 = input('You`ve come to the ocean.There is an island in the middle of the ocean. Type "wait" for boat will come or type "swim" you can swim:').lower()
     if choice_2  == 'wait':
