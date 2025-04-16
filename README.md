@@ -25,4 +25,6 @@ Prints the total count at the end.
 
 p6.py Enter your height in cm and, if tall enough, your age and whether you want a snapshot (Y/N) pay some amount. 
 
+pizza_delivary.py What will be the total bill if a customer orders a Medium pizza with pepperoni and extra cheese?
+
 
