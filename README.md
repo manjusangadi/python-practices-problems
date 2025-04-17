@@ -27,4 +27,12 @@ p6.py Enter your height in cm and, if tall enough, your age and whether you want
 
 pizza_delivary.py What will be the total bill if a customer orders a Medium pizza with pepperoni and extra cheese?
 
+Love_Calculator_Program.py
+Write a Python program that calculates a "love score" between two people based on the letters in their names. 
+The program should:
+Ask the user to enter two names.
+Count the total occurrences of the letters T, R, U, E (from the word "TRUE") and L, O, V, E (from the word "LOVE").
+Combine the two totals to form the love score (e.g., if TRUE total is 5 and LOVE total is 8, then the love score is 58).
+Finally, print a summary the total scores.
+
 
