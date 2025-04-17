@@ -29,9 +29,9 @@ love_score = int(str(true)+str(love))
 if love_score<10 or love_score>=90:
     print(f'your love score is {love_score}')
 elif love_score >= 40 and love_score <= 50:
-    print(f'love{love_score}')
+    print(f'your love score is:{love_score}')
 else:
-    print(f'love{love_score}')
+    print(f'your love score is:{love_score}')
 
 print(f'T occurs {t} times \nR occurs {r} times \nU occurs {u} times \nE occurs {e} times \n'
       f'Total={true}\n\n'
